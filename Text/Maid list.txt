@@ -1,4 +1,1 @@
-Hoshou Neko
-AuroraVera
-SummerSong
-Autrumn
+Hoshou Neko,AuroraVera,SummerSong,Autrumn
